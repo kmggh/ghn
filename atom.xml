@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Guytonhouse]]></title>
+  <link href="http://10.0.0.23/ghn//atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/ghn//"/>
+  <updated>2016-10-14T21:16:14-04:00</updated>
+  <id>http://10.0.0.23/ghn//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Site]]></title>
+    <link href="http://10.0.0.23/ghn//blog/2016/10/13/new-site/"/>
+    <updated>2016-10-13T23:09:00-04:00</updated>
+    <id>http://10.0.0.23/ghn//blog/2016/10/13/new-site</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve moved Guytonhouse.net to Octopress and Markdown like my other
+sites and I&rsquo;m hosting it on Github pages.</p>
+]]></content>
+  </entry>
+  
+</feed>
